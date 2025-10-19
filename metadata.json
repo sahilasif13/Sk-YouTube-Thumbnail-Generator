@@ -1,0 +1,5 @@
+{
+  "name": "AI YouTube Thumbnail Generator",
+  "description": "An advanced AI tool that acts as a YouTube Thumbnail Strategist & Generator. It analyzes a video title and keywords to create a detailed image prompt, then generates a high-quality, click-worthy thumbnail.",
+  "requestFramePermissions": []
+}
